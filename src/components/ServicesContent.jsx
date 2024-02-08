@@ -1,14 +1,14 @@
 
-export function BranchesContent({ branchesLabel, branches }) {
+export function ServicesContent({ servicesLabel, services }) {
 
   return (
     <>
       <div className='w-full flex justify-center items-center pt-[7rem] mb-[4rem]'>
-        <h2 className='text-red-600 text-[2rem] pt-[40px] font-bold'>{branchesLabel.title}</h2>
+        <h2 className='text-red-600 text-[2rem] pt-[40px] font-bold'>{servicesLabel.title}</h2>
       </div>
 
       {
-        branches.map(item => (
+        services.map(item => (
           <div
             className='flex flex-col-reverse lg:flex-row justify-center last:mb-5 items-center'
             key={item.id}
@@ -30,7 +30,8 @@ export function BranchesContent({ branchesLabel, branches }) {
               <h2 className='text-[19px] font-extrabold text-red-500 pt-[2rem] mb-4'>
                 {item.title}
               </h2>
-              <p className='text-gray-700 text-sm leading-6'>
+
+              <p className='text-gray-700 text-[16px] w-[90%] my-[40px] mx-auto leading-6'>
                 {item.description}
               </p>
             </div>

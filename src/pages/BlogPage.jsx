@@ -14,7 +14,7 @@ export function BlogPage() {
   const handleGetBlog = async () => {
     setCurrentLanguage(localStorage.getItem('primeMotors_lang'));
 
-    const responseBlogsLabel = await axios.get(`blogs_label?lang=${currentLanguage}`);
+    const responseBlogsLabel = await axios.get(`blogs_page_label?lang=${currentLanguage}`);
     setBlogsLabel(responseBlogsLabel.data[0]);
 
     const responseBlogs = await axios.get(`blogs?lang=${currentLanguage}`);

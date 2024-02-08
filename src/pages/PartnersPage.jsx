@@ -13,7 +13,7 @@ export function PartnersPage() {
   }, [currentLanguage])
 
   const loadingData = async () => {
-    const responsePartnersLabel = await axios.get(`partners_label?lang=${currentLanguage}`);
+    const responsePartnersLabel = await axios.get(`partners_page_label?lang=${currentLanguage}`);
     setPartnersLabel(responsePartnersLabel.data[0]);
 
     const responsePartners = await axios.get(`partners?lang=${currentLanguage}`);

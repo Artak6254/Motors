@@ -13,16 +13,16 @@ export function CompanyPage() {
   useEffect(() => {
     setCurrentLanguage(localStorage.getItem('primeMotors_lang'));
     loadingData();
-  }, [])
+  }, [currentLanguage])
 
   const loadingData = async () => {
     const responseSlider = await axios.get(`slider?lang=${currentLanguage}`);
     setSlider(responseSlider.data);
 
-    const responseAboutUsLabel = await axios.get(`about_us_label?lang=${currentLanguage}`);
+    const responseAboutUsLabel = await axios.get(`company_page_label?lang=${currentLanguage}`);
     setAboutUsLabel(responseAboutUsLabel.data[0]);
 
-    const responseAboutUs = await axios.get(`about_us?lang=${currentLanguage}`);
+    const responseAboutUs = await axios.get(`company_about?lang=${currentLanguage}`);
     setAboutUs(responseAboutUs.data);
   }
 

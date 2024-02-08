@@ -357,7 +357,7 @@
             }
         }
     ],
-    "about_us_label": [
+    "company_page_label": [
         {
             "id": "46",
             "lang": "en",
@@ -380,7 +380,7 @@
             "description": "ՓՌԱՅՄ ՄՈԹՈՐՍ/ՈՐԱԿՆ ԱՌԱՋՆԱՀԵՐԹ Է"
         }
     ],
-    "about_us": [
+    "company_about": [
         {
             "id": 49,
             "lang": "en",
@@ -507,7 +507,7 @@
             "title": "Հետեւեք մեզ"
         }
     ],
-    "partners_label": [
+    "partners_page_label": [
         {
             "id": 1,
             "lang": "en",
@@ -778,7 +778,7 @@
             }
         }
     ],
-    "branches_label": [
+    "branches_page_label": [
         {
             "id": 1,
             "lang": "en",
@@ -893,7 +893,7 @@
             }
         }
     ],
-    "blogs_label": [
+    "blogs_page_label": [
         {
             "id": 1,
             "lang": "en",
@@ -987,7 +987,7 @@
             "date": "Դեկտեմբեր 13, 2023"
         }
     ],
-    "promotion_label": [
+    "promotion_page_label": [
         {
             "id": 1,
             "lang": "en",
@@ -1046,6 +1046,339 @@
             "image": "/images/image.jpg",
             "title": "Հաճախորդը Կարևոր Է",
             "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։"
+        }
+    ],
+    "contacts_page_label": [
+        {
+            "id": 1,
+            "lang": "en",
+            "title": "CONTACT US"
+        },
+        {
+            "id": 2,
+            "lang": "ru",
+            "title": "СВЯЗАТЬСЯ С НАМИ"
+        },
+        {
+            "id": 3,
+            "lang": "am",
+            "title": "ԿԱՊ"
+        }
+    ],
+    "contacts": [
+        {
+            "id": 1,
+            "lang": "en",
+            "name": "Name",
+            "email": "Email",
+            "message": "Message...",
+            "btn_text": "Send"
+        },
+        {
+            "id": 2,
+            "lang": "ru",
+            "name": "Имя",
+            "email": "Электронная почта",
+            "message": "Сообщение...",
+            "btn_text": "Отправлять"
+        },
+        {
+            "id": 3,
+            "lang": "am",
+            "name": "Անուն",
+            "email": "Էլ-փոստ",
+            "message": "Հաղորդագրություն",
+            "btn_text": "Ուղարկել"
+        }
+    ],
+    "contactsInfo": [
+        {
+            "id": "d934",
+            "name": "Ani",
+            "email": "ani@gmail.com",
+            "message": "Hello world"
+        },
+        {
+            "id": "e951",
+            "name": "Poghos",
+            "email": "poghos877@gmail.com",
+            "message": "lorem ipsum"
+        },
+        {
+            "id": "3940",
+            "name": "Artak",
+            "email": "artak@mail.ru",
+            "message": "Welcome"
+        }
+    ],
+    "about_page_label": [
+        {
+            "id": 1,
+            "lang": "en",
+            "title": "ABOUT US"
+        },
+        {
+            "id": 2,
+            "lang": "ru",
+            "title": "О НАС"
+        },
+        {
+            "id": 3,
+            "lang": "am",
+            "title": "ՄԵՐ ՄԱՍԻՆ"
+        }
+    ],
+    "about_us": [
+        {
+            "id": 1,
+            "lang": "en",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 3,
+            "lang": "en",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 4,
+            "lang": "en",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 8,
+            "lang": "ru",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 9,
+            "lang": "ru",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 15,
+            "lang": "am",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 16,
+            "lang": "am",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 17,
+            "lang": "am",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        }
+    ],
+    "mission_page_label": [
+        {
+            "id": 1,
+            "lang": "en",
+            "title": "OUR MISSION AND VISION"
+        },
+        {
+            "id": 2,
+            "lang": "ru",
+            "title": "НАША МИССИЯ И ВИДЕНИЕ"
+        },
+        {
+            "id": 3,
+            "lang": "am",
+            "title": "ՄԵՐ ԱՌԱՔԵԼՈՒԹՅՈՒՆՆ ՈՒ ՏԵՍԼԱԿԱՆԸ"
+        }
+    ],
+    "mission": [
+        {
+            "id": 1,
+            "lang": "en",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 8,
+            "lang": "ru",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 17,
+            "lang": "am",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        }
+    ],
+    "services_page_label": [
+        {
+            "id": 1,
+            "lang": "en",
+            "title": "SERVICES"
+        },
+        {
+            "id": 2,
+            "lang": "ru",
+            "title": "УСЛУГИ"
+        },
+        {
+            "id": 3,
+            "lang": "am",
+            "title": "ԾԱՌԱՅՈՒԹՅՈՒՆՆԵՐ"
+        }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "lang": "en",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Lorem Ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 3,
+            "lang": "en",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Lorem Ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 4,
+            "lang": "en",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Lorem Ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 5,
+            "lang": "en",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Lorem Ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 6,
+            "lang": "en",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Lorem Ipsum",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus finibus ut orci quis tempor. Praesent interdum ex mi, sed dictum nisl facilisis eget. Duis et consequat risus. Nunc varius magna condimentum ipsum volutpat, ac consectetur elit suscipit. Quisque quis neque eget purus varius volutpat. Nullam placerat nibh arcu, et hendrerit mauris placerat et. Vestibulum at leo quam."
+        },
+        {
+            "id": 8,
+            "lang": "ru",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Клиент Важен",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 9,
+            "lang": "ru",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Клиент Важен",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 10,
+            "lang": "ru",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Клиент Важен",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 11,
+            "lang": "ru",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Клиент Важен",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 12,
+            "lang": "ru",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Клиент Важен",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 13,
+            "lang": "ru",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Клиент Важен",
+            "description": "Клиент очень важен, за клиентом пойдет клиент. Лодка на какое-то время становится клиникой. Иногда это исходит от меня, но игрокам нужно быть спокойными. Дуис и результат смеха. Теперь у казино большая история, и за ней будет следить разработчик. Не всем нужна чистая карьера в казино. No Placerat nibh arcu, et hendrerit mauris Placerat et В то же время, как Две стрелы, чтобы выпить. Зерно зерна отсрочено в прихожей."
+        },
+        {
+            "id": 15,
+            "lang": "am",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Հաճախորդը Կարևոր Է",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 16,
+            "lang": "am",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Հաճախորդը Կարևոր Է",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 17,
+            "lang": "am",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Հաճախորդը Կարևոր Է",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 18,
+            "lang": "am",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Հաճախորդը Կարևոր Է",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 19,
+            "lang": "am",
+            "reversed": true,
+            "image": "/images/slide2.jpg",
+            "title": "Հաճախորդը Կարևոր Է",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
+        },
+        {
+            "id": 20,
+            "lang": "am",
+            "reversed": false,
+            "image": "/images/slide3.jpg",
+            "title": "Հաճախորդը Կարևոր Է",
+            "description": "Հաճախորդը շատ կարևոր է, հաճախորդին հետևելու է հաճախորդը։ Նավն ավարտվում է որոշ ժամանակով կլինիկա: Երբեմն դա ինձնից է, բայց խաղացողները պետք է հեշտ լինեն: Դուիսը և ծիծաղի արդյունքը. Այժմ խաղատունը մեծ պատմություն ունի, և դրան կհետևի մշակողը։ Բոլորին պետք չէ մաքուր կազինո կարիերա: No placerat nibh arcu, et hendrerit mauris placerat et Միևնույն ժամանակ, ինչպես Խմելու երկու նետ: Հացահատիկի հատիկը ժամանակավոր է գավթի մեջ:"
         }
     ]
 }

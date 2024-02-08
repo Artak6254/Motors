@@ -13,6 +13,7 @@ import { PartnersPage } from './pages/PartnersPage';
 import { BranchesPage } from './pages/BranchesPage';
 import { BlogPage } from './pages/BlogPage';
 import { PromotionPage } from './pages/PromotionPage';
+import { ContactPage } from './pages/ContactPage';
 
 export function App() {
   const [currentLanguage, setCurrentLanguage] = useState('en');
@@ -55,7 +56,7 @@ export function App() {
         <Route path='/branches' element={<BranchesPage />} />
         <Route path='/blog' element={<BlogPage />} />
         <Route path='/promotion' element={<PromotionPage />} />
-        <Route path='/contact-us' element={<ArtakiPager />} />
+        <Route path='/contact-us' element={<ContactPage />} />
       </Routes>
 
       <Footer footer={footer} />

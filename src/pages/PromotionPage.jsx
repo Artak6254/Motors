@@ -13,7 +13,7 @@ export function PromotionPage() {
   }, [currentLanguage])
 
   const loadingData = async () => {
-    const responsePromotionLabel = await axios.get(`promotion_label?lang=${currentLanguage}`);
+    const responsePromotionLabel = await axios.get(`promotion_page_label?lang=${currentLanguage}`);
     setPromotionLabel(responsePromotionLabel.data[0])
 
     const responsePromotion = await axios.get(`promotion?lang=${currentLanguage}`);

@@ -83,7 +83,7 @@ export function Slider({ slider }) {
                 <FontAwesomeIcon icon={faChevronLeft} />
             </button>
 
-            <div className='flex gap-3 absolute bottom-8 left-1/2 transform -translate-x-1/2'>
+            <div className='flex gap-3 -z-10 absolute bottom-8 left-1/2 transform -translate-x-1/2'>
                 {slider.map((obj, index) => (
                     <div
                         key={obj.id}

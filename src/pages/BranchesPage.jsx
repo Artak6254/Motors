@@ -14,7 +14,7 @@ export function BranchesPage() {
     const loadingData = async () => {
         setCurrentLanguage(localStorage.getItem('primeMotors_lang'));
 
-        const responseBranchesLabel = await axios.get(`branches_label?lang=${currentLanguage}`);
+        const responseBranchesLabel = await axios.get(`branches_page_label?lang=${currentLanguage}`);
         setBranchesLabel(responseBranchesLabel.data[0]);
 
         const responseBranches = await axios.get(`branches?lang=${currentLanguage}`);
