@@ -7,10 +7,7 @@ export function ServicesPage() {
     const [servicesLabel, setSevicesLabel] = useState([]);
     const [services, setServices] = useState([]);
 
-    useEffect(() => {
-        loadingData();
-    }, [currentLanguage])
-
+ 
     const loadingData = async () => {
         setCurrentLanguage(localStorage.getItem('primeMotors_lang'));
 
@@ -20,6 +17,10 @@ export function ServicesPage() {
         const responseServices = await axios.get(`services?lang=${currentLanguage}`);
         setServices(responseServices.data);
     }
+    
+    useEffect(() => {
+        loadingData();
+    }, [currentLanguage])
 
     return (
         <div>

@@ -15,7 +15,7 @@ export function SelectLanguage({ setCurrentLanguage }) {
     return (
         <div onMouseMove={() => setShowSelector(true)} onMouseLeave={() => setShowSelector(false)} className='flex relative'>
             <p className='h-8'>
-                <span className='text-md font-bold text-lg px-[.5rem]'>{currentLanguage.toUpperCase()}</span>
+                <span className='text-md font-bold text-lg px-[.5rem]'>{currentLanguage}</span>
                 <FontAwesomeIcon icon={showSelector ? faChevronUp : faChevronDown} />
             </p>
 
