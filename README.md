@@ -1,12 +1,40 @@
-# Getting Started with Create React App
+### Motors React app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This test Motors site was created with react js for the styles used tailwind.css.<br/>
+The data is stored on the server json locally
+This project was tailwind.css with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
+## 📝INSTALLATION
+```
+git clone https://github.com/Artak6254/Motors.git
+```
 In the project directory, you can run:
 
-### `npm start`
+```
+npm install
+```
+
+```
+npm run dev
+```
+## Homepage
+![Alt text](./assets/imag1.png) 
+![Alt text](./assets/image6.png)
+
+## Partern page
+![Alt text](./assets/imag2.png) 
+
+
+
+### Blog page
+![Alt text](./assets/imag3.png) 
+
+### Promotion page
+![Alt text](./assets/imag4.png) 
+
+### Contact Us page
+![Alt text](./assets/imag5.png) 
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
